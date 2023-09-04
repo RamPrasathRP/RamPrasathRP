@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ram Prasath</h1>
+
+
+<a href="https://github.com/RamPrasathRP/"<h1 align="center">Hi 👋, I'm Ram Prasath</h1>
 <h3 align="center">A passionate frontend developer from Theni, India</h3>
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
@@ -7,16 +9,8 @@
 
 - 📫 How to reach me **ramprasaathrp2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/RamPrasathRP/"<h1 align="center">Hi 👋, I'm Ram Prasath</h1>
-<h3 align="center">A passionate frontend developer from Theni, India</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
-
-- 📫 How to reach me **ramprasathrp2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
