@@ -1,6 +1,6 @@
 
 
-<a href="https://github.com/RamPrasathRP/"<h1 align="center">Hi 👋, I'm Ram Prasath</h1>
+<a href="https://github.com/RamPrasathRP"<h1 align="center">Hi 👋, I'm Ram Prasath</h1>
 <h3 align="center">A passionate frontend developer from Theni, India</h3>
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
