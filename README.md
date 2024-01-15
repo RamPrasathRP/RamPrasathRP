@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
 
-- 📫 How to reach me **ramprasaathrp2003@gmail.com**
+- 📫 How to reach me **ramprasathrp2003@gmail.com**
 
 
 
