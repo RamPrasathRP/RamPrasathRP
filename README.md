@@ -3,7 +3,7 @@
 <a href="https://github.com/RamPrasathRP"><h1 align="center">Hi 👋, I'm Ram Prasath</h1></a>
 <h3 align="center">A passionate frontend developer from Theni, India</h3>
 
-👋 Hi there! I'm [Your Name], a passionate front-end developer with a love for creating visually appealing and user-friendly web experiences.
+👋 Hi there! I'm Ram Prasath, a passionate front-end developer with a love for creating visually appealing and user-friendly web experiences.
 
 🚀 **Skills:**
 - HTML5, CSS3, JavaScript
@@ -16,17 +16,17 @@
 
 💼 **Currently:**
 - Exploring new ways to enhance user interactions through animation and micro-interactions.
-- Learning [PYTHON] to level up my development skills.
+- Learning PYTHON to level up my development skills.
 
 🌐 **Projects:**
 Still I'm not interseted in projects but in upcomming days,there will be a chance 😊
 
 📚 **Education:**
-- [B.E], [Nadar Saraswathi College of Engineering and Technology]
+- B.E, Nadar Saraswathi College of Engineering and Technology
 
 🔗 **Connect with Me:**
-- LinkedIn: [https://www.linkedin.com/in/ramprasath-k-72aa11249/]
-- Portfolio: [https://ramprasathrp.netlify.app/#landing],still portfolio is not fully done 💀
+- LinkedIn: https://www.linkedin.com/in/ramprasath-k-72aa11249/
+- Portfolio:https://ramprasathrp.netlify.app/#landing,still portfolio is not fully done 💀
 
 🌱 Always eager to learn and stay updated with the latest trends in front-end development. Let's build something amazing together! ✨
 
