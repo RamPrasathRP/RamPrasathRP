@@ -26,7 +26,7 @@ Still I'm not interseted in projects but in upcomming days,there will be a chanc
 
 🔗 **Connect with Me:**
 - LinkedIn: https://www.linkedin.com/in/ramprasath-k-72aa11249/
-- Portfolio:https://ramprasathrp.netlify.app/#landing,still portfolio is not fully done 💀
+- Portfolio:https://ramprasathrp.netlify.app/#landing  ,still portfolio is not fully done 💀
 
 🌱 Always eager to learn and stay updated with the latest trends in front-end development. Let's build something amazing together! ✨
 
