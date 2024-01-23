@@ -19,7 +19,7 @@
 - Learning [PYTHON] to level up my development skills.
 
 🌐 **Projects:**
-Still does not interseted in projects but in upcomming days,there will be a chance 😊
+Still I'm not interseted in projects but in upcomming days,there will be a chance 😊
 
 📚 **Education:**
 - [B.E], [Nadar Saraswathi College of Engineering and Technology]
